@@ -7,3 +7,5 @@ console.log(myarr2.splice(1,4))  /*splice and slice has diffrence of tacking out
                                     sliand coping out respectevely of indexes given of arrays*/
 console.log(myarr)
 console.log(myarr2)
+
+
